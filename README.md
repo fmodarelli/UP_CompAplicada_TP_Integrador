@@ -1,8 +1,8 @@
-# Universidad de Palermo
-Materia: Computacion Aplicada
+# Universidad de Palermo - Computacion Aplicada
 Trabajo práctico integrador grupal
 
 Integrantes:
+
 
 Facundo Emanuel Modarelli
 
